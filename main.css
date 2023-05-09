@@ -1,0 +1,79 @@
+.site-banner{
+	background: darkorange;
+	text-align: center;
+	padding-top:10px;
+	padding-bottom: 8px;
+	color: royalblue;
+}
+
+.byline{
+	font-family: Georgia;
+	font-size: 15px;
+	font color: black;
+}
+
+.first-section{
+	color: royalblue;
+}
+
+.deck{
+	font-family: Georgia;
+	font-size: 16px;
+	margin: 0px;
+}
+
+.lindor{
+	max-width: 100px;
+	max-height: 100px;
+}
+
+.story-body{
+	font-family: Georgia; 
+	max-width: 100%;
+	color: royalblue;
+}
+
+.lindor{
+	max-height: 100%;
+	max-width: 100%;
+}
+
+.publish-date{
+	font-family: Georgia;
+	font-size: 10px;
+}
+
+.photo-1{
+	margin-top: auto;
+	margin-bottom: auto;
+	padding: 5px;
+	max-width: 100%;
+	max-height: 100%;
+}
+
+.story-body2{
+	font-family: Georgia;
+	color: royalblue;
+}
+.text{
+	font-size: 15px;
+}
+
+.photo-caption{
+	font-family: Arial;
+	font-size: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	line-height: 8px;
+	color: black;
+}
+
+
+
+.photo-2{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 10px;
+	max-width: 100%;
+	max-height: 100%;
+}
